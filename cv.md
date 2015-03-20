@@ -90,6 +90,8 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Contributed presentations
 
+- **Joseph MB**. 2015. Git workshop: better version control. Ecology and Evolutionary Quantitative Think Tank, University of Colorado, Boulder.
+
 - **Joseph MB**, Preston DL, Johnson PTJ. 2015. Integrating occupancy models and structural equation models to better understand community composition. Invited talk: IQBio Quantitative Biology Student Symposum, University of Colorado, Boulder.
 
 - **Joseph MB**. 2015. Criteria for establishing causal links between climate change and disease emergence: a case study with the amphibian chytrid fungus *Batrachochytrium dendrobatidis*. Guest lecture: Infectious Diseases, Environmental Contexts, Colorado School of Public Health. 
