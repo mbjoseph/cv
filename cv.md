@@ -90,6 +90,8 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Contributed presentations
 
+- Basey JM, Francis CD, **Joseph MB**. 2015. The influence of student achievement motivation orientation and study/leisure conflict on self-regulated study during student-centered general biology labs. $26^{th}$ International Conference on College Teaching and Learning, Ponte Vedra Beach, Florida. 
+
 - **Joseph MB**. 2015. Git workshop: better version control. Ecology and Evolutionary Quantitative Think Tank, University of Colorado, Boulder.
 
 - **Joseph MB**, Preston DL, Johnson PTJ. 2015. Integrating occupancy models and structural equation models to better understand community composition. Invited talk: IQBio Quantitative Biology Student Symposum, University of Colorado, Boulder.
