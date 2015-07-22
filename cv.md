@@ -54,6 +54,8 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Teaching experience
 
+Summer 2015: TA General Biology Lab II, University of Colorado, Boulder
+
 Summer 2015: Curriculum development: Introduction to Quantitative Inference and Thinking, University of Colorado, Boulder
 
 Spring 2015: TA Introduction to Quantitative Inference and Thinking, University of Colorado, Boulder
@@ -69,6 +71,8 @@ Spring 2011: TA General Biology Lab II, University of Colorado, Boulder
 Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Awards, Grants, and Fellowships
+
+2015: TIGER (Teaching Institute for Graduate Education Research) ROAR (Research on Academic Retention) in statistics Fellowship, University of Colorado, Boulder
 
 2013: City of Boulder Open Space and Mountain Parks Research Grant
 
