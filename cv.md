@@ -72,7 +72,7 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Awards, Grants, and Fellowships
 
-2015: TIGER (Teaching Institute for Graduate Education Research) ROAR (Research on Academic Retention) in statistics Fellowship, University of Colorado, Boulder
+2015: CIRTL (Center for the Integration of Teaching, Research, and Learning) Network associate, TIGER (Teaching Institute for Graduate Education Research) ROAR (Research on Academic Retention) in statistics, University of Colorado, Boulder
 
 2013: City of Boulder Open Space and Mountain Parks Research Grant
 
@@ -95,6 +95,8 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 2011: University of California Santa Barbara Valentine Eastern Sierra Reserve Graduate Research Grant
 
 ## Contributed presentations
+
+- **Joseph MB** 2015. Introduction to Fungi. Guest lecture: Biology, a Human Approach 2, University of Colorado, Boulder.
 
 - **Joseph MB**. 2015. Amphibian declines and disease-induced extinctions. Guest lecture: Conservation Biology, University of Colorado, Boulder.
 
