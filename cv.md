@@ -26,15 +26,13 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Peer-reviewed publications
 
-- Arellano AL, **Joseph MB**, Mihaljevic JR, Preston DL, Keuneman JG, Johnson PTJ. In press. Understanding and controlling infectious disease epidemics in humans and wildlife. Nature Education Knowledge.
-
-- Mihaljevic JR, **Joseph MB**, Johnson PTJ. In press. Using multi-species occupancy models to improve the characterization and understanding of metacommunity structure. Ecology. *in press*
+- Mihaljevic JR, **Joseph MB**, Johnson PTJ. 2015. Using multi-species occupancy models to improve the characterization and understanding of metacommunity structure. Ecology 96(7): 1783–1792.
 
 - Mihaljevic JR, **Joseph MB**, Orlofske SA, Paull SH. 2014. The scaling of host density with richness affects the direction, shape, and detectability of diversity-disease relationships. PLoS ONE 9(5): e97812.
 
 - **Joseph MB**, Mihaljevic JR, Orlofske SA, Paull SH. 2013. Does life history mediate changing disease risk when communities disassemble? Ecology Letters, 16(11): 1405-1412.
 
-- **Joseph MB**, Mihaljevic JR, Arellano AL, Keuneman JG, Preston DL, Cross PC, Johnson PTJ. 2013. Taming wildlife disease: bridging the gap between science and management. Journal of Applied Ecology, 50(3): 702-712.
+- **Joseph MB**, Mihaljevic JR, Arellano AL, Keuneman JG, Preston DL, Cross PC, Johnson PTJ. 2013. Taming wildlife disease: bridging the gap between science and management. Journal of Applied Ecology 50(3): 702-712.
 
 - McMahon TA, Brannelly LA, Chatfield MWH, Johnson PTJ, **Joseph MB**, McKenzie VJ, Richards-Zawacki CL, Venesky MD, Rohr JR. 2012. Chytrid fungus Batrachochytrium dendrobatidis has nonamphibian hosts and releases chemicals that cause pathology in the absence of infection. Proceedings of the National Academy of Sciences of the United States of America 110(1): 210-215.
 
@@ -48,7 +46,7 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 - Ecology in silico. 2013-present. An R code blog and open lab notebook. [mbjoseph.github.io](mbjoseph.github.io)
 
-- Github: mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [mbjoseph.github.io](mbjoseph.github.io)
+- Github: mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [mbjoseph.github.com](mbjoseph.github.com)
 
 - Joseph MB. 2009. Searching for Pratt. Alpinist 27.
 
