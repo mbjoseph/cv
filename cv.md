@@ -52,6 +52,8 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Teaching experience
 
+Fall 2015: TA Biometry, University of Colorado, Boulder
+
 Summer 2015: TA General Biology Lab II, University of Colorado, Boulder
 
 Summer 2015: Curriculum development: Introduction to Quantitative Inference and Thinking, University of Colorado, Boulder
@@ -93,6 +95,10 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 2011: University of California Santa Barbara Valentine Eastern Sierra Reserve Graduate Research Grant
 
 ## Contributed presentations
+
+- **Joseph MB**. 2015. Empirical and theoretical opportunities in host-symbiont community ecology. Ecological Society of America Annual Meeting, Baltimore, MD.
+
+- Preston DL, **Joseph MB**, Esfahani ER, Pena E, Johnson PTTJ. 2015. Effect of invasive fish on wetland communities: linking field data and mechanistic experiments at multiple scales. Ecological Society of America Annual Meeting, Baltimore, MD.
 
 - **Joseph MB** 2015. Introduction to Fungi. Guest lecture: Biology, a Human Approach 2, University of Colorado, Boulder.
 
