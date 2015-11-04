@@ -26,6 +26,10 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Peer-reviewed publications
 
+- **Joseph MB**, Preston DL, Johnson PTJ. *in press*. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
+
+- Wilkins MR, Shizuka D, **Joseph MB**, Hubbard JK, Safran RJ. 2015. Multimodal signaling in the North American barn swallow: a phenotype network approach. Proceedings of the Royal Society B 282: 20151574.
+
 - Mihaljevic JR, **Joseph MB**, Johnson PTJ. 2015. Using multi-species occupancy models to improve the characterization and understanding of metacommunity structure. Ecology 96(7): 1783–1792.
 
 - Mihaljevic JR, **Joseph MB**, Orlofske SA, Paull SH. 2014. The scaling of host density with richness affects the direction, shape, and detectability of diversity-disease relationships. PLoS ONE 9(5): e97812.
@@ -95,6 +99,8 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 2011: University of California Santa Barbara Valentine Eastern Sierra Reserve Graduate Research Grant
 
 ## Contributed presentations
+
+- **Joseph MB**. 2015. The theory of disease induced extinction. Guest lecture: Disease Ecology, University of Colorado, Boulder. 
 
 - **Joseph MB**. 2015. Empirical and theoretical opportunities in host-symbiont community ecology. Ecological Society of America Annual Meeting, Baltimore, MD.
 
