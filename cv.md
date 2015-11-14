@@ -46,6 +46,10 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 - Karban R, Hodson A, Gruner DS, Lewis EE, Karban J, **Joseph MB**, Mata T, Strong DR. 2011. Lack of susceptibility of soil-inhabiting Platyprepia virginialis caterpillars, a native arctiid, to entomopathogenic nematodes in nature. Entomologia Experimentalis et Applicata 140 (1): 28-34.
 
+## Preprints
+
+- Joseph MB, Stutz WE, Johnson PTJ. 2015. Multilevel models for the distribution of hosts and symbionts. PeerJ PrePrints 3:e1876.
+
 ## Other publications
 
 - Ecology in silico. 2013-present. An R code blog and open lab notebook. [mbjoseph.github.io](mbjoseph.github.io)
@@ -100,7 +104,7 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Contributed presentations
 
-- **Joseph MB**. 2015. The theory of disease induced extinction. Guest lecture: Disease Ecology, University of Colorado, Boulder. 
+- **Joseph MB**. 2015. The theory of disease induced extinction. Guest lecture: Disease Ecology, University of Colorado, Boulder.
 
 - **Joseph MB**. 2015. Empirical and theoretical opportunities in host-symbiont community ecology. Ecological Society of America Annual Meeting, Baltimore, MD.
 
