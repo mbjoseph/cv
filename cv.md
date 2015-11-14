@@ -28,6 +28,8 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 - **Joseph MB**, Preston DL, Johnson PTJ. *in press*. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
 
+- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PTJ. *in press*. Endohelminths in bird hosts from northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology.
+
 - Wilkins MR, Shizuka D, **Joseph MB**, Hubbard JK, Safran RJ. 2015. Multimodal signaling in the North American barn swallow: a phenotype network approach. Proceedings of the Royal Society B 282: 20151574.
 
 - Mihaljevic JR, **Joseph MB**, Johnson PTJ. 2015. Using multi-species occupancy models to improve the characterization and understanding of metacommunity structure. Ecology 96(7): 1783–1792.
@@ -152,13 +154,9 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Working papers
 
-- **Joseph MB**, Preston DL, Johnson PTJ. Integrating occupancy models and structural equation models to better understand ecological communities.
-
 - **Joseph MB**, Mihaljevic JR, Johnson PTJ. Reconciling divergent perspectives on diversity and disease: host functional diversity increases symbiont richness while inhibiting transmission.
 
-- **Joseph MB**, Stutz W, Johnson PTJ. Joint host-symbiont occupancy models reveal scale dependent processes and observation errors in symbiont distributions.
-
-- Wilkins MR, Shizuka D, **Joseph MB**, Hubbard JK, Safran RJ. Multimodal signaling in the North American barn swallow: a phenotype network approach.
+- **Joseph MB**, Johnson PTJ. Disease hotspots at the intersection of multiple spatiotemporal processes: a hierarchical Bayesian approach.
 
 - Orlofske SA, Flaxman SM, Melbourne BA, **Joseph MB**, Johnson PTJ. Beyond frequency and density-dependence: an experimental demonstration of the importance of non-linear transmission dynamics in a host-macroparasite system.
 
