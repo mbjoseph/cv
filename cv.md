@@ -62,6 +62,10 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Teaching experience
 
+Spring 2016: Instructor Bayesian hierarchical modeling graduate course, University of Colorado, Boulder
+
+Spring 2016: TA Ecology, University of Colorado, Boulder
+
 Fall 2015: TA Biometry, University of Colorado, Boulder
 
 Summer 2015: TA General Biology Lab II, University of Colorado, Boulder
