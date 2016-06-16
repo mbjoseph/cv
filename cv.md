@@ -1,24 +1,25 @@
 Maxwell B. Joseph
 =================
 
-PhD candidate, Ecology and Evolutionary Biology, CU Boulder
+## Research data analyst
+
+Earth Lab   
+Research Computing   
+University of Colorado, Boulder
 
 [maxwell.b.joseph@colorado.edu](maxwell.b.joseph@colorado.edu)
 
 ## Education
 
 **University of Colorado, Boulder**  
-Ph.D. Fall 2010-present  
+Ph.D. 2010 - 2016  
 Advisor: Pieter Johnson  
 Department of Ecology and Evolutionary Biology  
-GPA: 4.0  
 
 **University of California, Davis**  
-B.S. Fall 2004-Spring 2008  
+B.S. 2004 - 2008  
 Advisors: Louis Botsford and Sharon Lawler  
 Wildlife, Fish, and Conservation Biology  
-GPA: 3.5  
-
 
 ## Research Interests
 
@@ -26,9 +27,15 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Peer-reviewed publications
 
-- **Joseph MB**, Preston DL, Johnson PTJ. *in press*. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
+- Manlove KR, Walker JG, Craft ME, Huyvaert KP, **Joseph MB**, Miller RS, Nol P, Patyk KA, O'Brien D, Walsh DP, Cross PC. *2016*. "One Health" or Three? Publication silos among the one health disciplines. PLoS Biology 14:4.
 
-- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PTJ. *in press*. Endohelminths in bird hosts from northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology.
+- Grant EHC, Miller DAW, Schmidt BR, Adams MJ, Amburgey SM, Chambert T, Cruickshank SS, Fisher RN, Green DM, Hossack BR, Johnson PTJ, **Joseph MB**, Rittenhouse TAG, Ryan ME, Waddle JH, Walls SC, Bailey LL, Fellers GM, Gorman TA, Ray AM, Pilliod DS, Price SJ, Saenz D, Sadinski W, Muths E. *2016*. Quantitative evidence for the effects of multiple drivers on continental-scale amphibian declines. Scientific reports 6.
+
+- Johnon PTJ, Wood CL, **Joseph MB**, Preston DL, Haas SE, Springer YP. *2016*. Habitat heterogeneity drives the host-diversity-begets-parasite-diversity relationship: evidence from experimental and field studies. Ecology Letters 19: 7.
+
+- **Joseph MB**, Preston DL, Johnson PTJ. *2015*. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
+
+- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PTJ. *2015*. Endohelminths in bird hosts from northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology.
 
 - Wilkins MR, Shizuka D, **Joseph MB**, Hubbard JK, Safran RJ. 2015. Multimodal signaling in the North American barn swallow: a phenotype network approach. Proceedings of the Royal Society B 282: 20151574.
 
