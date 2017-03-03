@@ -1,7 +1,7 @@
 Maxwell B. Joseph
 =================
 
-## Research data analyst
+## Data scientist
 
 Earth Lab   
 Research Computing   
@@ -26,6 +26,8 @@ Wildlife, Fish, and Conservation Biology
 Causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
 
 ## Peer-reviewed publications
+
+- **Joseph MB**, Stutz WE, Johnson PTJ. 2015. Multilevel models for the distribution of hosts and symbionts. PLOS ONE 11(11): e0165768.
 
 - Manlove KR, Walker JG, Craft ME, Huyvaert KP, **Joseph MB**, Miller RS, Nol P, Patyk KA, O'Brien D, Walsh DP, Cross PC. *2016*. "One Health" or Three? Publication silos among the one health disciplines. PLoS Biology 14:4.
 
