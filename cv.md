@@ -4,7 +4,7 @@ Maxwell B. Joseph
 ## Data scientist
 
 Earth Lab   
-Research Computing   
+Analytics Hub
 University of Colorado, Boulder
 
 [maxwell.b.joseph@colorado.edu](maxwell.b.joseph@colorado.edu)
@@ -23,21 +23,23 @@ Wildlife, Fish, and Conservation Biology
 
 ## Research Interests
 
-Causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
+The intersection of Earth science, computer vision, and machine learning; state-space models; causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
 
 ## Peer-reviewed publications
 
-- **Joseph MB**, Stutz WE, Johnson PTJ. 2015. Multilevel models for the distribution of hosts and symbionts. PLOS ONE 11(11): e0165768.
+- Orlofske SA, Flaxman S, **Joseph MB**, Fenton A, Melbourne B, Johnson PTJ. 2017. Experimental investigation of alternative transmission functions: quantitative evidence for the importance of non-linear transmission dynamics in host-parasite systems. Journal of Animal Ecology *accepted*. 
 
-- Manlove KR, Walker JG, Craft ME, Huyvaert KP, **Joseph MB**, Miller RS, Nol P, Patyk KA, O'Brien D, Walsh DP, Cross PC. *2016*. "One Health" or Three? Publication silos among the one health disciplines. PLoS Biology 14:4.
+- **Joseph MB**, Stutz WE, Johnson PTJ. 2016. Multilevel models for the distribution of hosts and symbionts. PLOS ONE 11(11): e0165768.
 
-- Grant EHC, Miller DAW, Schmidt BR, Adams MJ, Amburgey SM, Chambert T, Cruickshank SS, Fisher RN, Green DM, Hossack BR, Johnson PTJ, **Joseph MB**, Rittenhouse TAG, Ryan ME, Waddle JH, Walls SC, Bailey LL, Fellers GM, Gorman TA, Ray AM, Pilliod DS, Price SJ, Saenz D, Sadinski W, Muths E. *2016*. Quantitative evidence for the effects of multiple drivers on continental-scale amphibian declines. Scientific reports 6.
+- Manlove KR, Walker JG, Craft ME, Huyvaert KP, **Joseph MB**, Miller RS, Nol P, Patyk KA, O'Brien D, Walsh DP, Cross PC. 2016. "One Health" or Three? Publication silos among the one health disciplines. PLoS Biology 14:4.
 
-- Johnon PTJ, Wood CL, **Joseph MB**, Preston DL, Haas SE, Springer YP. *2016*. Habitat heterogeneity drives the host-diversity-begets-parasite-diversity relationship: evidence from experimental and field studies. Ecology Letters 19: 7.
+- Grant EHC, Miller DAW, Schmidt BR, Adams MJ, Amburgey SM, Chambert T, Cruickshank SS, Fisher RN, Green DM, Hossack BR, Johnson PTJ, **Joseph MB**, Rittenhouse TAG, Ryan ME, Waddle JH, Walls SC, Bailey LL, Fellers GM, Gorman TA, Ray AM, Pilliod DS, Price SJ, Saenz D, Sadinski W, Muths E. 2016. Quantitative evidence for the effects of multiple drivers on continental-scale amphibian declines. Scientific reports 6.
 
-- **Joseph MB**, Preston DL, Johnson PTJ. *2015*. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
+- Johnon PTJ, Wood CL, **Joseph MB**, Preston DL, Haas SE, Springer YP. 2016. Habitat heterogeneity drives the host-diversity-begets-parasite-diversity relationship: evidence from experimental and field studies. Ecology Letters 19: 7.
 
-- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PTJ. *2015*. Endohelminths in bird hosts from northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology.
+- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PTJ. 2016. Endohelminths in bird hosts from northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology.
+
+- **Joseph MB**, Preston DL, Johnson PTJ. 2015. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
 
 - Wilkins MR, Shizuka D, **Joseph MB**, Hubbard JK, Safran RJ. 2015. Multimodal signaling in the North American barn swallow: a phenotype network approach. Proceedings of the Royal Society B 282: 20151574.
 
@@ -63,11 +65,21 @@ Causes and consequences of extinctions; relationships between biodiversity and d
 
 ## Other publications
 
-- Ecology in silico. 2013-present. An R code blog and open lab notebook. [mbjoseph.github.io](mbjoseph.github.io)
+- Exact sparse conditional autoregressive models in Stan. 2016. [Stan case studies](http://mc-stan.org/users/documentation/case-studies/mbjoseph-CARStan.html). https://doi.org/10.5281/zenodo.210407
 
-- Github: mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [mbjoseph.github.com](mbjoseph.github.com)
+- Course notes: hierarchical Bayesian modeling for ecologists. 2016. https://github.com/hmods/notes
+
+- Ecology in silico. 2013-present. An R code blog and open lab notebook with content around applying and teaching Bayesian statistics, R, and scientific computing. [http://mbjoseph.github.io/blog.html](http://mbjoseph.github.io/blog.html)
+
+- GitHub account: mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [https://github.com/mbjoseph](https://github.com/mbjoseph)
 
 - Joseph MB. 2009. Searching for Pratt. Alpinist 27.
+
+## Software products
+
+- smapr: an R package for acquisition and processing of NASA SMAP data. https://github.com/earthlab/smapr
+
+- Earth Lab Docker stack, including [Dockerfiles on GitHub](https://github.com/earthlab/dockerfiles) and [registered images on Docker Hub](https://hub.docker.com/u/earthlab/). 
 
 ## Teaching experience
 
@@ -117,7 +129,21 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 2011: University of California Santa Barbara Valentine Eastern Sierra Reserve Graduate Research Grant
 
-## Contributed presentations
+## Contributed presentations and workshops
+
+- Wasser L, **Joseph MB**. 2017. Introduction to version control with git. Earth Analytics Education training workshop. 
+
+- **Joseph MB**. 2017. Introduction to neural networks in remote sensing. Guest lecture: Remote Sensing Data Analysis, University of Colorado, Boulder. 
+
+- **Joseph MB**. 2016. Partial pooling, Bayesian inference, and shrinkage in NBA freethrow percentages. Analyze Boulder December meetup.
+
+- **Joseph MB**. 2016. Introduction to the R programming language. Rocky Mountain Advanced Computing Consortium annual conference. 
+
+- **Joseph MB**. 2016. Advanced collaborative version control with git: forking and pull requests. Earth Lab training workshop. 
+
+- **Joseph MB**. 2016. Introduction to version control with git and GitHub. Earth Lab training workshop. 
+
+- **Joseph MB**. 2016. Best practices in scientific computing. Ecology and Evolutionary Quantitative Think Tank, University of Colorado, Boulder.
 
 - **Joseph MB**. 2015. The theory of disease induced extinction. Guest lecture: Disease Ecology, University of Colorado, Boulder.
 
@@ -164,15 +190,6 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 - **Joseph MB**. 2012. Non-native trout disrupt aquatic-terrestrial subsidies in montane lakes. Guest lecture: Mountain Geography, University of Colorado, Boulder.
 
 - **Joseph MB**. 2011. Non-native trout disrupt aquatic-terrestrial subsidies in montane lakes. Guest lecture: Mountain Geography, University of Colorado, Boulder.
-
-## Working papers
-
-- **Joseph MB**, Mihaljevic JR, Johnson PTJ. Reconciling divergent perspectives on diversity and disease: host functional diversity increases symbiont richness while inhibiting transmission.
-
-- **Joseph MB**, Johnson PTJ. Disease hotspots at the intersection of multiple spatiotemporal processes: a hierarchical Bayesian approach.
-
-- Orlofske SA, Flaxman SM, Melbourne BA, **Joseph MB**, Johnson PTJ. Beyond frequency and density-dependence: an experimental demonstration of the importance of non-linear transmission dynamics in a host-macroparasite system.
-
 
 ## Media coverage
 
