@@ -23,11 +23,23 @@ Wildlife, Fish, and Conservation Biology
 
 ## Research Interests
 
-The intersection of Earth science, computer vision, and machine learning; state-space models; causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
+The intersection of Earth science, statistics, and machine learning; neural networks, spatiotemporal statistics, hierarchical Bayesian models, state-space models; causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
 
 ## Peer-reviewed publications
 
-- Orlofske SA, Flaxman S, **Joseph MB**, Fenton A, Melbourne B, Johnson PTJ. 2017. Experimental investigation of alternative transmission functions: quantitative evidence for the importance of non-linear transmission dynamics in host-parasite systems. Journal of Animal Ecology *accepted*. 
+- **Joseph MB**, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. Spatiotemporal prediction of wildfire size extremes with Bayesian finite sample maxima. Ecological Applications e01898.
+
+- Scherer RD, Hansen EC, **Joseph MB**, Wack RF. 2019. Estimating relationships between size and fecundity in the threatened giant gartersnake in semi-natural and agricultural wetlands. Population Ecology 61(2): 141-149.
+
+- Kueneman JG, Bletz MC, McKenzie VJ, Becker CG, **Joseph MB**, Abarca JG, Archer H, Arellano AL, Bataille A, Becker M, Belden LK, Crottini A, Geffers R, Haddad CFB, Harris RN, Holden WM, Hughey M, Jarek M, Kearns PJ, Kerby JL, Kielgast J, Kurabayashi A, Longo AV, Loudon A, Medina D, Nuñez JJ, Perl RGB, Pinto-Tomás A, Rabemananjara FCE, Rebollar EA, Rodríguez A, Rollins-Smith L, Stevenson R, Tebbe CC, Asensio GV, Waldman B, Walke JB, Whitfield SM, Zamudio KR, Chaves IZ, Woodhams DC, Vences M. 2019. Community richness of amphibian skin bacteria correlates with bioclimate at the global scale. Nature ecology & evolution. 3(3): 381.
+
+- **Joseph MB**, Knapp RA. 2018. Disease and climate effects on individuals drive post‐reintroduction population dynamics of an endangered amphibian. 9 (11).
+
+- Miller DA, Grant EH, Muths E, Amburgey SM, Adams MJ, **Joseph MB**, Waddle JH, Johnson PT, Ryan ME, Schmidt BR, Calhoun DL, et al. Quantifying climate sensitivity and climate-driven change in North American amphibian communities. Nature communications. 9(1):3926.
+
+- Wall CC, Karnauskas K, **Joseph MB**, McGlinchy J, Johnson BR. 2018. Navigating noise when comparing satellite and acoustic remote sensing data. The Journal of the Acoustical Society of America. 144(3): 1744-1745.
+
+- Orlofske SA, Flaxman S, **Joseph MB**, Fenton A, Melbourne B, Johnson PTJ. 2017. Experimental investigation of alternative transmission functions: quantitative evidence for the importance of non-linear transmission dynamics in host-parasite systems. Journal of Animal Ecology *accepted*.
 
 - **Joseph MB**, Stutz WE, Johnson PTJ. 2016. Multilevel models for the distribution of hosts and symbionts. PLOS ONE 11(11): e0165768.
 
@@ -61,7 +73,13 @@ The intersection of Earth science, computer vision, and machine learning; state-
 
 ## Preprints
 
-- Joseph MB, Stutz WE, Johnson PTJ. 2015. Multilevel models for the distribution of hosts and symbionts. PeerJ PrePrints 3:e1876.
+- **Joseph MB**, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. Spatiotemporal prediction of wildfire extremes with Bayesian finite sample maxima. bioRxiv.
+
+- Ranjeva SL, Mihaljevic JR, **Joseph MB**, Giuliano AR, Dwyer G. 2018. Untangling the dynamics of persistence and colonization in microbial communities. bioRxiv.
+
+- **Joseph MB**, Knapp RA. Disease and climate effects on individuals jointly drive post-reintroduction population dynamics of an endangered amphibian. bioRxiv.
+
+- **Joseph MB**, Stutz WE, Johnson PTJ. 2015. Multilevel models for the distribution of hosts and symbionts. PeerJ PrePrints 3:e1876.
 
 ## Other publications
 
@@ -69,7 +87,7 @@ The intersection of Earth science, computer vision, and machine learning; state-
 
 - Course notes: hierarchical Bayesian modeling for ecologists. 2016. https://github.com/hmods/notes
 
-- Ecology in silico. 2013-present. An R code blog and open lab notebook with content around applying and teaching Bayesian statistics, R, and scientific computing. [http://mbjoseph.github.io/blog.html](http://mbjoseph.github.io/blog.html)
+- Blog. 2013-present. An R code blog and open lab notebook with content around applying and teaching Bayesian statistics, R, and scientific computing. [http://mbjoseph.github.io](http://mbjoseph.github.io)
 
 - GitHub account: mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [https://github.com/mbjoseph](https://github.com/mbjoseph)
 
@@ -77,9 +95,17 @@ The intersection of Earth science, computer vision, and machine learning; state-
 
 ## Software products
 
-- smapr: an R package for acquisition and processing of NASA SMAP data. https://github.com/earthlab/smapr
+- smapr: an R package for acquisition and processing of NASA SMAP data. https://github.com/ropensci/smapr
 
-- Earth Lab Docker stack, including [Dockerfiles on GitHub](https://github.com/earthlab/dockerfiles) and [registered images on Docker Hub](https://hub.docker.com/u/earthlab/). 
+- eddi: an R package for acquisition and processing of NOAA Evaporative Demand Drought Index data. https://github.com/earthlab/eddi
+
+- leri: an R package for acquisition and processing of NOAA Landscape Evaporative Response Index data. https://github.com/earthlab/leri
+
+- streamstats: a Python client for the USGS StreamStats API. https://github.com/earthlab/streamstats
+
+- earthpy: a Python library for working with spatial raster and vector data. https://github.com/earthlab/earthpy
+
+- Earth Lab Docker stack, including [Dockerfiles on GitHub](https://github.com/earthlab/dockerfiles) and [registered images on Docker Hub](https://hub.docker.com/u/earthlab/).
 
 ## Teaching experience
 
@@ -131,17 +157,17 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Contributed presentations and workshops
 
-- Wasser L, **Joseph MB**. 2017. Introduction to version control with git. Earth Analytics Education training workshop. 
+- Wasser L, **Joseph MB**. 2017. Introduction to version control with git. Earth Analytics Education training workshop.
 
-- **Joseph MB**. 2017. Introduction to neural networks in remote sensing. Guest lecture: Remote Sensing Data Analysis, University of Colorado, Boulder. 
+- **Joseph MB**. 2017. Introduction to neural networks in remote sensing. Guest lecture: Remote Sensing Data Analysis, University of Colorado, Boulder.
 
 - **Joseph MB**. 2016. Partial pooling, Bayesian inference, and shrinkage in NBA freethrow percentages. Analyze Boulder December meetup.
 
-- **Joseph MB**. 2016. Introduction to the R programming language. Rocky Mountain Advanced Computing Consortium annual conference. 
+- **Joseph MB**. 2016. Introduction to the R programming language. Rocky Mountain Advanced Computing Consortium annual conference.
 
-- **Joseph MB**. 2016. Advanced collaborative version control with git: forking and pull requests. Earth Lab training workshop. 
+- **Joseph MB**. 2016. Advanced collaborative version control with git: forking and pull requests. Earth Lab training workshop.
 
-- **Joseph MB**. 2016. Introduction to version control with git and GitHub. Earth Lab training workshop. 
+- **Joseph MB**. 2016. Introduction to version control with git and GitHub. Earth Lab training workshop.
 
 - **Joseph MB**. 2016. Best practices in scientific computing. Ecology and Evolutionary Quantitative Think Tank, University of Colorado, Boulder.
 
@@ -192,6 +218,8 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 - **Joseph MB**. 2011. Non-native trout disrupt aquatic-terrestrial subsidies in montane lakes. Guest lecture: Mountain Geography, University of Colorado, Boulder.
 
 ## Media coverage
+
+Chris Baraniuk. 2018. The quest to predict - and stop - the spread of wildfires. BBC Future.
 
 Susan Moran. 2014. Tag, you're it! Advances in radio and satellite tagging reveal the secret lives of animals. Science News for Students, Society of Science.
 
