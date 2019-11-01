@@ -1,13 +1,19 @@
 Maxwell B. Joseph
 =================
 
-## Data scientist
+[maxwell.b.joseph@colorado.edu](maxwell.b.joseph@colorado.edu)
 
-Earth Lab   
-Analytics Hub
+### Data scientist
+
+Earth Lab  
+Analytics Hub  
 University of Colorado, Boulder
 
-[maxwell.b.joseph@colorado.edu](maxwell.b.joseph@colorado.edu)
+### Open Science Architect
+
+North Central Climate Adaptation Science Center  
+University of Colorado, Boulder
+
 
 ## Education
 
@@ -73,6 +79,8 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 ## Preprints
 
+- **Joseph MB**. Neural hierarchical models of ecological populations. BioRxiv. 2019 Jan 1:759944.
+
 - **Joseph MB**, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. Spatiotemporal prediction of wildfire extremes with Bayesian finite sample maxima. bioRxiv.
 
 - Ranjeva SL, Mihaljevic JR, **Joseph MB**, Giuliano AR, Dwyer G. 2018. Untangling the dynamics of persistence and colonization in microbial communities. bioRxiv.
@@ -94,6 +102,8 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 - Joseph MB. 2009. Searching for Pratt. Alpinist 27.
 
 ## Software products
+
+- neonhs: an R package to simplify working with NEON's hyperspectral imagery. https://github.com/earthlab/neonhs
 
 - smapr: an R package for acquisition and processing of NASA SMAP data. https://github.com/ropensci/smapr
 
@@ -133,6 +143,14 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Awards, Grants, and Fellowships
 
+2019: NSF HDBE The Creeping Disaster along the Coast: Built Environment, Coastal Communities and Population Vulnerability to Sea Level Rise (senior personnel)
+
+2019: NSF HDR DSC: Earth Data Science Corps - Fulfilling Workforce Demand at the Intersection of Environmental Science and Data Science (senior personnel)
+
+2019: NSF CAREER: Fire impacts on forest carbon recovery in a warming world: training the next generation of Earth analysts by exploring a missing scale of observations (senior personnel)
+
+2018: DOI/USGS CU Boulder NC CASC: Driving innovation in co-producing science to help resource managers in the North Central region adapt to a changing world (senior personnel)
+
 2015: CIRTL (Center for the Integration of Teaching, Research, and Learning) Network associate, TIGER (Teaching Institute for Graduate Education Research) ROAR (Research on Academic Retention) in statistics, University of Colorado, Boulder
 
 2013: City of Boulder Open Space and Mountain Parks Research Grant
@@ -154,68 +172,6 @@ Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 2011: American Society of Ichthyologists and Herpetologists Gaige Award
 
 2011: University of California Santa Barbara Valentine Eastern Sierra Reserve Graduate Research Grant
-
-## Contributed presentations and workshops
-
-- Wasser L, **Joseph MB**. 2017. Introduction to version control with git. Earth Analytics Education training workshop.
-
-- **Joseph MB**. 2017. Introduction to neural networks in remote sensing. Guest lecture: Remote Sensing Data Analysis, University of Colorado, Boulder.
-
-- **Joseph MB**. 2016. Partial pooling, Bayesian inference, and shrinkage in NBA freethrow percentages. Analyze Boulder December meetup.
-
-- **Joseph MB**. 2016. Introduction to the R programming language. Rocky Mountain Advanced Computing Consortium annual conference.
-
-- **Joseph MB**. 2016. Advanced collaborative version control with git: forking and pull requests. Earth Lab training workshop.
-
-- **Joseph MB**. 2016. Introduction to version control with git and GitHub. Earth Lab training workshop.
-
-- **Joseph MB**. 2016. Best practices in scientific computing. Ecology and Evolutionary Quantitative Think Tank, University of Colorado, Boulder.
-
-- **Joseph MB**. 2015. The theory of disease induced extinction. Guest lecture: Disease Ecology, University of Colorado, Boulder.
-
-- **Joseph MB**. 2015. Empirical and theoretical opportunities in host-symbiont community ecology. Ecological Society of America Annual Meeting, Baltimore, MD.
-
-- Preston DL, **Joseph MB**, Esfahani ER, Pena E, Johnson PTTJ. 2015. Effect of invasive fish on wetland communities: linking field data and mechanistic experiments at multiple scales. Ecological Society of America Annual Meeting, Baltimore, MD.
-
-- **Joseph MB** 2015. Introduction to Fungi. Guest lecture: Biology, a Human Approach 2, University of Colorado, Boulder.
-
-- **Joseph MB**. 2015. Amphibian declines and disease-induced extinctions. Guest lecture: Conservation Biology, University of Colorado, Boulder.
-
-- Basey JM, Francis CD, **Joseph MB**. 2015. The influence of student achievement motivation orientation and study/leisure conflict on self-regulated study during student-centered general biology labs. $26^{th}$ International Conference on College Teaching and Learning, Ponte Vedra Beach, Florida.
-
-- **Joseph MB**. 2015. Git workshop: better version control. Ecology and Evolutionary Quantitative Think Tank, University of Colorado, Boulder.
-
-- **Joseph MB**, Preston DL, Johnson PTJ. 2015. Integrating occupancy models and structural equation models to better understand community composition. Invited talk: IQBio Quantitative Biology Student Symposum, University of Colorado, Boulder.
-
-- **Joseph MB**. 2015. Criteria for establishing causal links between climate change and disease emergence: a case study with the amphibian chytrid fungus *Batrachochytrium dendrobatidis*. Guest lecture: Infectious Diseases, Environmental Contexts, Colorado School of Public Health.
-
-- **Joseph MB**. 2015. Shrinkage and partial pooling in mixed effects models. CU Ecology and Evolutionary Biology Brown Bag.
-
-- **Joseph MB**, Mihaljevic JR, Johnson PTJ. 2014 Reconciling seemingly divergent effects of diversity on disease: a metacommunity approach. Ecological Society of America Annual Meeting, Sacramento, CA.
-
-- Mihaljevic JR, **Joseph MB**, Johnson PTJ. 2014. Using multi-species occupancy models to improve inference of metacommunity structure. Ecological Society of America Annual Meeting, Sacramento, CA.
-
-- **Joseph MB**, Mihaljevic JR, Johnson PTJ. 2014. Reconciling seemingly divergent effects of diversity on disease: a metacommunity approach. Ecology of Infectious Diseases Meeting, Fort Collins, CO.
-
-- **Joseph MB**. 2014. Tips and tricks for reproducible workflows and research: intro to git, markdown, and make. CU Ecology and Evolutionary Biology Brown Bag.
-
-- **Joseph MB**, Preston DL, Johnson PTJ. 2013. Uniting dynamic occupancy and generalized latent variable models to understand the effects of cattle grazing on amphibian communities. Ecological Society of America Annual Meeting, Minneapolis, MN.
-
-- Mihaljevic JR, **Joseph MB**, Johnson PTJ. 2013. The role of host community abundance-richness relationships in pathogen transmission. Ecological Society of America Annual Meeting, Minneapolis, MN.
-
-- **Joseph MB**. 2013. Habitat use and movement of Northern leopard frogs in Boulder, CO. Boulder County Parks and Open Space Advisory Committee Meeting.
-
-- **Joseph MB**. 2013. Habitat use and movement of Northern leopard frogs in Boulder, CO. Invited talk: City of Boulder Open Space and Mountain Parks.
-
-- **Joseph MB**. 2013. Does life history mediate changes in disease risk when communities disassemble? CU Ecology and Evolutionary Biology Brown Bag.
-
-- **Joseph** MB. 2012. Causes and consequences of global amphibian declines. Public lecture: Save the Frogs Day, Natural History Museum, University of Colorado, Boulder.
-
-- **Joseph** MB. 2012. Causes and consequences of global amphibian declines. Guest lecture: Introduction to Herpetology, University of Colorado, Boulder.
-
-- **Joseph MB**. 2012. Non-native trout disrupt aquatic-terrestrial subsidies in montane lakes. Guest lecture: Mountain Geography, University of Colorado, Boulder.
-
-- **Joseph MB**. 2011. Non-native trout disrupt aquatic-terrestrial subsidies in montane lakes. Guest lecture: Mountain Geography, University of Colorado, Boulder.
 
 ## Media coverage
 
