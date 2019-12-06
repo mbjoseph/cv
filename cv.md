@@ -33,19 +33,27 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 ## Peer-reviewed publications
 
+- McGlinchy J, Johnson B, Muller B, **Joseph MB** and Diaz J, 2019. Application of UNet Fully Convolutional Neural Network to Impervious Surface Segmentation in Urban Environment from High Resolution Satellite Imagery. In IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium (pp. 3915-3918). IEEE.
+
+- Ranjeva SL, Mihaljevic JR, **Joseph MB**, Giuliano AR and Dwyer G, 2019. Untangling the dynamics of persistence and colonization in microbial communities. The ISME journal, pp.1-13.
+
+- Diaz J, and **Joseph, MB**, 2019. Predicting property damage from tornadoes with zero-inflated neural networks. Weather and Climate Extremes, 25, p.100216.
+
 - **Joseph MB**, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. Spatiotemporal prediction of wildfire size extremes with Bayesian finite sample maxima. Ecological Applications e01898.
 
 - Scherer RD, Hansen EC, **Joseph MB**, Wack RF. 2019. Estimating relationships between size and fecundity in the threatened giant gartersnake in semi-natural and agricultural wetlands. Population Ecology 61(2): 141-149.
 
 - Kueneman JG, Bletz MC, McKenzie VJ, Becker CG, **Joseph MB**, Abarca JG, Archer H, Arellano AL, Bataille A, Becker M, Belden LK, Crottini A, Geffers R, Haddad CFB, Harris RN, Holden WM, Hughey M, Jarek M, Kearns PJ, Kerby JL, Kielgast J, Kurabayashi A, Longo AV, Loudon A, Medina D, Nuñez JJ, Perl RGB, Pinto-Tomás A, Rabemananjara FCE, Rebollar EA, Rodríguez A, Rollins-Smith L, Stevenson R, Tebbe CC, Asensio GV, Waldman B, Walke JB, Whitfield SM, Zamudio KR, Chaves IZ, Woodhams DC, Vences M. 2019. Community richness of amphibian skin bacteria correlates with bioclimate at the global scale. Nature ecology & evolution. 3(3): 381.
 
-- **Joseph MB**, Knapp RA. 2018. Disease and climate effects on individuals drive post‐reintroduction population dynamics of an endangered amphibian. 9 (11).
+- **Joseph MB**, Knapp RA. 2018. Disease and climate effects on individuals drive post‐reintroduction population dynamics of an endangered amphibian. Ecosphere 9 (11).
 
 - Miller DA, Grant EH, Muths E, Amburgey SM, Adams MJ, **Joseph MB**, Waddle JH, Johnson PT, Ryan ME, Schmidt BR, Calhoun DL, et al. Quantifying climate sensitivity and climate-driven change in North American amphibian communities. Nature communications. 9(1):3926.
 
 - Wall CC, Karnauskas K, **Joseph MB**, McGlinchy J, Johnson BR. 2018. Navigating noise when comparing satellite and acoustic remote sensing data. The Journal of the Acoustical Society of America. 144(3): 1744-1745.
 
-- Orlofske SA, Flaxman S, **Joseph MB**, Fenton A, Melbourne B, Johnson PTJ. 2017. Experimental investigation of alternative transmission functions: quantitative evidence for the importance of non-linear transmission dynamics in host-parasite systems. Journal of Animal Ecology *accepted*.
+- Johnson BR, McGlinchy J, Cattau M, **Joseph MB** and Scholl V, 2018, September. Harnessing commercial satellite technologies to monitor our forests. In Remote Sensing and Modeling of Ecosystems for Sustainability XV (Vol. 10767, p. 1076702). International Society for Optics and Photonics.
+
+- Orlofske SA, Flaxman S, **Joseph MB**, Fenton A, Melbourne B, Johnson PTJ. 2017. Experimental investigation of alternative transmission functions: quantitative evidence for the importance of non-linear transmission dynamics in host-parasite systems. Journal of Animal Ecology 87(3).
 
 - **Joseph MB**, Stutz WE, Johnson PTJ. 2016. Multilevel models for the distribution of hosts and symbionts. PLOS ONE 11(11): e0165768.
 
@@ -79,6 +87,8 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 ## Preprints
 
+- Balch J, Iglesias V, Braswell A, Rossi M, **Joseph MB**, Mahood AL, Travis W, Shrum T, White CT, Scholl V and McGuire B, 2019. Socio-environmental extremes: rethinking extraordinary events as outcomes of interacting biophysical and social systems. PeerJ Preprints, 7, p.e27877v1.
+
 - **Joseph MB**. Neural hierarchical models of ecological populations. BioRxiv. 2019 Jan 1:759944.
 
 - **Joseph MB**, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. Spatiotemporal prediction of wildfire extremes with Bayesian finite sample maxima. bioRxiv.
@@ -97,7 +107,7 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 - Blog. 2013-present. An R code blog and open lab notebook with content around applying and teaching Bayesian statistics, R, and scientific computing. [http://mbjoseph.github.io](http://mbjoseph.github.io)
 
-- GitHub account: mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [https://github.com/mbjoseph](https://github.com/mbjoseph)
+- GitHub @mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [https://github.com/mbjoseph](https://github.com/mbjoseph)
 
 - Joseph MB. 2009. Searching for Pratt. Alpinist 27.
 
