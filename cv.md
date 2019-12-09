@@ -45,6 +45,8 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 - Kueneman JG, Bletz MC, McKenzie VJ, Becker CG, **Joseph MB**, Abarca JG, Archer H, Arellano AL, Bataille A, Becker M, Belden LK, Crottini A, Geffers R, Haddad CFB, Harris RN, Holden WM, Hughey M, Jarek M, Kearns PJ, Kerby JL, Kielgast J, Kurabayashi A, Longo AV, Loudon A, Medina D, Nuñez JJ, Perl RGB, Pinto-Tomás A, Rabemananjara FCE, Rebollar EA, Rodríguez A, Rollins-Smith L, Stevenson R, Tebbe CC, Asensio GV, Waldman B, Walke JB, Whitfield SM, Zamudio KR, Chaves IZ, Woodhams DC, Vences M. 2019. Community richness of amphibian skin bacteria correlates with bioclimate at the global scale. Nature ecology & evolution. 3(3): 381.
 
+- Wasser L, **Joseph MB**, McGlinchy J, Palomino J, Korinek, N, Holdgraf C, Head T. 2019. EarthPy: a Python package that makes it easier to explore and plot raster and vector data using open source Python tools. Journal of Open Source Software 4(43):1886.
+
 - **Joseph MB**, Knapp RA. 2018. Disease and climate effects on individuals drive post‐reintroduction population dynamics of an endangered amphibian. Ecosphere 9 (11).
 
 - Miller DA, Grant EH, Muths E, Amburgey SM, Adams MJ, **Joseph MB**, Waddle JH, Johnson PT, Ryan ME, Schmidt BR, Calhoun DL, et al. Quantifying climate sensitivity and climate-driven change in North American amphibian communities. Nature communications. 9(1):3926.
