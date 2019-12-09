@@ -9,7 +9,7 @@ Earth Lab
 Analytics Hub  
 University of Colorado, Boulder
 
-### Open Science Architect
+### Open science architect
 
 North Central Climate Adaptation Science Center  
 University of Colorado, Boulder
