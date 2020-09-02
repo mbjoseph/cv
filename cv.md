@@ -5,12 +5,14 @@ Maxwell B. Joseph
 
 ### Data scientist
 
+2016-present
 Earth Lab  
 Analytics Hub  
 University of Colorado, Boulder
 
 ### Open science architect
 
+2018-present
 North Central Climate Adaptation Science Center  
 University of Colorado, Boulder
 
@@ -32,6 +34,16 @@ Wildlife, Fish, and Conservation Biology
 The intersection of Earth science, statistics, and machine learning; neural networks, spatiotemporal statistics, hierarchical Bayesian models, state-space models; causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
 
 ## Peer-reviewed publications
+
+- **Joseph MB**. Neural hierarchical models of ecological populations. Ecology Letters. 2020 Apr;23(4):734-47.
+
+- Balch JK, Iglesias V, Braswell AE, Rossi MW, **Joseph MB**, Mahood AL, Shrum TR, White CT, Scholl VM, McGuire B, Karban C. Social‐environmental extremes: Rethinking extraordinary events as outcomes of interacting biophysical and social systems. Earth's Future. 2020 Jul;8(7):e2019EF001319.
+
+- Denis LA, Hughes AL, Diaz J, Solvik K, **Joseph MB**, Balch JK. ‘What I Need to Know is What I Don’t Know!’: Filtering Disaster Twitter Data for Information from Local Individuals. Proceedings of 17th International Conference on Information Systems for Crisis Response and Management 2020.
+
+- Diaz J, St Denis LA, **Joseph MB**, Solvik K, Balch JK. Classifying Twitter Users for Disaster Response: A Highly Multimodal or Simple Approach?. Proceedings of the Information Systems for Crisis Response and Management Conference (ISCRAM 2020) 2020.
+
+- Scholl VM, Cattau ME, **Joseph MB**, Balch JK. Integrating national ecological observatory network (NEON) airborne remote sensing and in-situ data for optimal tree species classification. Remote Sensing. 2020 Jan;12(9):1414.
 
 - McGlinchy J, Johnson B, Muller B, **Joseph MB** and Diaz J, 2019. Application of UNet Fully Convolutional Neural Network to Impervious Surface Segmentation in Urban Environment from High Resolution Satellite Imagery. In IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium (pp. 3915-3918). IEEE.
 
@@ -89,17 +101,9 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 ## Preprints
 
-- Balch J, Iglesias V, Braswell A, Rossi M, **Joseph MB**, Mahood AL, Travis W, Shrum T, White CT, Scholl V and McGuire B, 2019. Socio-environmental extremes: rethinking extraordinary events as outcomes of interacting biophysical and social systems. PeerJ Preprints, 7, p.e27877v1.
+- Gadeken KR, **Joseph MB**, McGlinchy J, Karnauskas KB, Bell CC. Predicting subsurface sonar observations with satellite-derived ocean surface data in the California Current Ecosystem. bioRxiv. 2020 Jan 1.
 
-- **Joseph MB**. Neural hierarchical models of ecological populations. BioRxiv. 2019 Jan 1:759944.
-
-- **Joseph MB**, Rossi MW, Mietkiewicz NP, Mahood AL, Cattau ME, St. Denis LA, Nagy RC, Iglesias V, Abatzoglou JT, Balch JK. 2019. Spatiotemporal prediction of wildfire extremes with Bayesian finite sample maxima. bioRxiv.
-
-- Ranjeva SL, Mihaljevic JR, **Joseph MB**, Giuliano AR, Dwyer G. 2018. Untangling the dynamics of persistence and colonization in microbial communities. bioRxiv.
-
-- **Joseph MB**, Knapp RA. Disease and climate effects on individuals jointly drive post-reintroduction population dynamics of an endangered amphibian. bioRxiv.
-
-- **Joseph MB**, Stutz WE, Johnson PTJ. 2015. Multilevel models for the distribution of hosts and symbionts. PeerJ PrePrints 3:e1876.
+- **Joseph MB**, Knapp RA. Using encounter data to improve capture-recapture abundance estimates. BioRxiv. 2020 Jan 1.
 
 ## Other publications
 
@@ -116,6 +120,8 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 ## Software products
 
 - neonhs: an R package to simplify working with NEON's hyperspectral imagery. https://github.com/earthlab/neonhs
+
+- Climate futures toolbox (cft): easy climate data access (MACA v2) to support climate scenario planning. https://github.com/earthlab/cft
 
 - smapr: an R package for acquisition and processing of NASA SMAP data. https://github.com/ropensci/smapr
 
