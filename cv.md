@@ -1,19 +1,24 @@
-Maxwell B. Joseph
-=================
+---
+fontfamily: helvet
+header-includes:
+  - \renewcommand{\familydefault}{\sfdefault}
+  - \usepackage[margin=1in]{geometry}
+---
+
+# Maxwell B. Joseph
+
 
 [maxwell.b.joseph@colorado.edu](maxwell.b.joseph@colorado.edu)
 
-### Data scientist
 
-2016-present
-Earth Lab  
-Analytics Hub  
+## Appointments
+
+**Data scientist**  
+Earth Lab (2016-present)  
 University of Colorado, Boulder
 
-### Open science architect
-
-2018-present
-North Central Climate Adaptation Science Center  
+**Open science architect**  
+North Central Climate Adaptation Science Center (2018-present)  
 University of Colorado, Boulder
 
 
@@ -31,7 +36,7 @@ Wildlife, Fish, and Conservation Biology
 
 ## Research Interests
 
-The intersection of Earth science, statistics, and machine learning; neural networks, spatiotemporal statistics, hierarchical Bayesian models, state-space models; causes and consequences of extinctions; relationships between biodiversity and disease; host-symbiont metacommunity dynamics; causal models of species occurrence; occupancy modeling for host-symbiont systems; amphibian declines; wildlife disease management; biotic invasions
+Bayesian statistics, machine learning, and ecology; science-based deep learning, model-based data integration, spatiotemporal statistics, hierarchical Bayesian models, state-space models
 
 ## Peer-reviewed publications
 
@@ -107,17 +112,17 @@ The intersection of Earth science, statistics, and machine learning; neural netw
 
 ## Other publications
 
-- Exact sparse conditional autoregressive models in Stan. 2016. [Stan case studies](http://mc-stan.org/users/documentation/case-studies/mbjoseph-CARStan.html). https://doi.org/10.5281/zenodo.210407
+- Exact sparse conditional autoregressive models in Stan. 2016. [Stan case studies](http://mc-stan.org/users/documentation/case-studies/mbjoseph-CARStan.html).
 
-- Course notes: hierarchical Bayesian modeling for ecologists. 2016. https://github.com/hmods/notes
+- Course notes & material: [hierarchical Bayesian modeling for ecologists](https://github.com/hmods/notes). 2016.
 
-- Blog. 2013-present. An R code blog and open lab notebook with content around applying and teaching Bayesian statistics, R, and scientific computing. [http://mbjoseph.github.io](http://mbjoseph.github.io)
+- Blog. 2013-present. Open lab notebook with content around applying and teaching Bayesian statistics, R, and scientific computing. [http://mbjoseph.github.io](http://mbjoseph.github.io)
 
-- GitHub @mbjoseph. 2012-present. Includes a variety of statistical resources and integrated templates for reproducible research. [https://github.com/mbjoseph](https://github.com/mbjoseph)
+- GitHub @mbjoseph. 2012-present. Statistical resources and integrated templates for reproducible research. [https://github.com/mbjoseph](https://github.com/mbjoseph)
 
 - Joseph MB. 2009. Searching for Pratt. Alpinist 27.
 
-## Software products
+## Software
 
 - neonhs: an R package to simplify working with NEON's hyperspectral imagery. https://github.com/earthlab/neonhs
 
@@ -160,6 +165,8 @@ Spring 2011: TA General Biology Lab II, University of Colorado, Boulder
 Fall 2010: TA General Biology Lab I, University of Colorado, Boulder
 
 ## Awards, Grants, and Fellowships
+
+2020: NSF Macroscale Resilience: Assessing the recovery of western U.S. forests to compound disturbance by linking observations—from trees to ecoregions (co-PI)
 
 2019: NSF HDBE The Creeping Disaster along the Coast: Built Environment, Coastal Communities and Population Vulnerability to Sea Level Rise (senior personnel)
 
