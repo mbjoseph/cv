@@ -42,6 +42,8 @@ Bayesian statistics, machine learning, and ecology; science-based deep learning,
 
 - **Joseph MB**. Neural hierarchical models of ecological populations. Ecology Letters. 2020 Apr;23(4):734-47.
 
+- Basey JM, Francis CD, **Joseph MB**. Motivation Strategies and Exiting Class by Students in Inquiry-Oriented Biology Labs. Teaching & Learning Inquiry. 2020 Oct 6;8(2):128-39.
+
 - Balch JK, Iglesias V, Braswell AE, Rossi MW, **Joseph MB**, Mahood AL, Shrum TR, White CT, Scholl VM, McGuire B, Karban C. Social‐environmental extremes: Rethinking extraordinary events as outcomes of interacting biophysical and social systems. Earth's Future. 2020 Jul;8(7):e2019EF001319.
 
 - Denis LA, Hughes AL, Diaz J, Solvik K, **Joseph MB**, Balch JK. ‘What I Need to Know is What I Don’t Know!’: Filtering Disaster Twitter Data for Information from Local Individuals. Proceedings of 17th International Conference on Information Systems for Crisis Response and Management 2020.
@@ -49,6 +51,8 @@ Bayesian statistics, machine learning, and ecology; science-based deep learning,
 - Diaz J, St Denis LA, **Joseph MB**, Solvik K, Balch JK. Classifying Twitter Users for Disaster Response: A Highly Multimodal or Simple Approach?. Proceedings of the Information Systems for Crisis Response and Management Conference (ISCRAM 2020) 2020.
 
 - Scholl VM, Cattau ME, **Joseph MB**, Balch JK. Integrating national ecological observatory network (NEON) airborne remote sensing and in-situ data for optimal tree species classification. Remote Sensing. 2020 Jan;12(9):1414.
+
+- Qiang Y, Buttenfield BP, **Joseph MB**. How to Measure Distance on a Digital Terrain Surface and Why it Matters in Geographical Analysis. Geographical Analysis. 2020 Aug 12.
 
 - McGlinchy J, Johnson B, Muller B, **Joseph MB** and Diaz J, 2019. Application of UNet Fully Convolutional Neural Network to Impervious Surface Segmentation in Urban Environment from High Resolution Satellite Imagery. In IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium (pp. 3915-3918). IEEE.
 
@@ -105,6 +109,8 @@ Bayesian statistics, machine learning, and ecology; science-based deep learning,
 - Karban R, Hodson A, Gruner DS, Lewis EE, Karban J, **Joseph MB**, Mata T, Strong DR. 2011. Lack of susceptibility of soil-inhabiting Platyprepia virginialis caterpillars, a native arctiid, to entomopathogenic nematodes in nature. Entomologia Experimentalis et Applicata 140 (1): 28-34.
 
 ## Preprints
+
+- Solvik K, Bartuszevige AM, Bogaerts M, **Joseph MB**. Predicting Playa Inundation Using a Long Short-Term Memory Neural Network. arXiv preprint arXiv:2010.08605. 2020 Oct 16.
 
 - Gadeken KR, **Joseph MB**, McGlinchy J, Karnauskas KB, Bell CC. Predicting subsurface sonar observations with satellite-derived ocean surface data in the California Current Ecosystem. bioRxiv. 2020 Jan 1.
 
