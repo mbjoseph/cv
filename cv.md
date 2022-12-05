@@ -7,38 +7,86 @@ header-includes:
 
 # Maxwell B. Joseph
 
+[maxwellbjoseph@gmail.com](maxwellbjoseph@gmail.com)
 
-[maxwell.b.joseph@colorado.edu](maxwell.b.joseph@colorado.edu)
+## Experience
 
+### Data scientist
 
-## Appointments
+*Natural Capital Exchange (2021-present)*
 
-**Data scientist**  
-Earth Lab (2016-present)  
-University of Colorado, Boulder
+- Led the development of continental scale models of forest structure, biomass, and loss.
+- Integrated modern geospatial data science tooling into existing workflows including dask, xarray, and the STAC (Spatiotemporal Asset Catalog) specification.
+- Communicated the work of the data team both internally and externally to diverse stakeholders.
 
-**Open science architect**  
-North Central Climate Adaptation Science Center (2018-present)  
-University of Colorado, Boulder
+### Research data scientist
 
+*Earth Lab, University of Colorado, Boulder (2016-2021)*
+
+- Developed Bayesian and machine learning methods to answer critical science questions with large scale earth observation data around wildfire, other natural hazards, the built environment, wildlife population dynamics, and disease ecology.
+- Mentored undergraduate and graduate students, and collaborated with post-doctoral and faculty researchers across multiple departments.
+- Synthesized data and software needs of an interdisciplinary research group, providing best practices and tooling for large scale earth science in the cloud.
+
+### Open science architect
+
+*North Central Climate Adaptation Science Center, University of Colorado, Boulder (2018-2021)*
+
+- Developed open source climate data tools to support resource management decisions.
+- Built partnerships between academic, nonprofit, and federal stakeholders to address key data needs.
 
 ## Education
 
-**University of Colorado, Boulder**  
-Ph.D. 2010 - 2016  
-Advisor: Pieter Johnson  
-Department of Ecology and Evolutionary Biology  
+**University of Colorado, Boulder**
+Ph.D. 2010 - 2016
+Department of Ecology and Evolutionary Biology
 
-**University of California, Davis**  
-B.S. 2004 - 2008  
-Advisors: Louis Botsford and Sharon Lawler  
-Wildlife, Fish, and Conservation Biology  
+**University of California, Davis**
+B.S. 2004 - 2008
+Wildlife, Fish, and Conservation Biology
 
-## Research Interests
+## Skills
 
-Bayesian statistics, machine learning, and ecology; science-based deep learning, model-based data integration, spatiotemporal statistics, hierarchical Bayesian models, state-space models
+**Bayesian statistics** (spatiotemporal statistics, hierarchical Bayesian models, state-space models, data integration), **machine learning** (sequence models, computer vision, tabular data, self-supervised learning, active learning, science-based eep learning, data fusion), **Earth observation data** (Optical imagery from Sentinel 2, Landsat, Planetscope, GOES; Synthetic Aperture Radar from Sentinel 1; Land cover data; large scale observation networks including NEON and USFS FIA), and **ecology** (occupancy modeling, mark-recapture, N-mixture modeling, distance sampling, spatial capture-recapture).
+
+### Tools
+
+Python, R, bash, Stan, pytorch, fastai, xarray, pandas, geopandas, dask, pytest, mlflow, git, GitHub, tidyverse, stars, testthat, and JAGS.
 
 ## Peer-reviewed publications
+
+- Spiers AI, Royle JA, Torrens CL, **Joseph MB**. Estimating species misclassification with occupancy dynamics and encounter rates: A semi‐supervised, individual‐level approach. Methods in Ecology and Evolution. 2022 Apr 22.
+
+- Balch JK, Abatzoglou JT, **Joseph MB**, Koontz MJ, Mahood AL, McGlinchy J, Cattau ME, Williams AP. Warming weakens the night-time barrier to global fire. Nature. 2022 Feb;602(7897):442-8.
+
+- Fagre AC, Cohen LE, Eskew EA, Farrell M, Glennon E, **Joseph MB**, Frank HK, Ryan SJ, Carlson CJ, Albery GF. Assessing the risk of human‐to‐wildlife pathogen transmission for conservation and public health. Ecology Letters. 2022 Mar 22.
+
+- Knapp RA, **Joseph MB**, Smith TC, Hegeman EE, Vredenburg VT, Erdman Jr JE, Boiano DM, Jani AJ, Briggs CJ. Effectiveness of antifungal treatments during chytridiomycosis epizootics in populations of an endangered frog. PeerJ. 2022 Jan 5;10:e12712.
+
+- Nagy RC, Balch JK, Bissell EK, Cattau ME, Glenn NF, Halpern BS, Ilangakoon N, Johnson B, **Joseph MB**, et al. Harnessing the NEON data revolution to advance open environmental science with a diverse and data‐capable community. Ecosphere. 2021 Dec;12(12):e03833.
+
+- Albery GF, Becker DJ, Brierley L, Brook CE, Christofferson RC, Cohen LE, Dallas TA, Eskew EA, Fagre A, Farrell MJ, Glennon E, Guth S, **Joseph MB**, Mollentze N, Neely BA, Poisot T, Rasmussen AL, Ryan SJ, Siefert S, Sjodin AR, Sorrell EM, Carlson CJ. The science of the host–virus network. Nature microbiology. 2021 Dec;6(12):1483-92.
+
+- Albery GF, Turilli I, **Joseph MB**, Foley J, Frere CH, Bansal S. From flames to inflammation: how wildfires affect patterns of wildlife disease. Fire Ecology. 2021 Dec;17(1):1-7.
+
+- Kitzes J, Blake R, Bombaci S, Chapman M, Duran SM, Huang T, **Joseph MB**, Lapp S, Marconi S, Oestreich WK, Rhinehart TA. Expanding NEON biodiversity surveys with new instrumentation and machine learning approaches. Ecosphere. 2021 Nov;12(11):e03795.
+
+- Solvik K, Bartuszevige AM, Bogaerts M, **Joseph MB**. Predicting Playa Inundation Using a Long Short‐Term Memory Neural Network. Water Resources Research. 2021 Nov;57(12):e2020WR029009.
+
+- Scholl VM, McGlinchy J, Price-Broncucia T, Balch JK, **Joseph MB**. Fusion neural networks for plant classification: learning to combine RGB, hyperspectral, and lidar data. PeerJ. 2021 Jul 29;9:e11790.
+
+- Gadeken KR, **Joseph MB**, McGlinchy J, Karnauskas KB, Wall CC. Predicting subsurface sonar observations with satellite-derived ocean surface data in the California Current Ecosystem. Plos one. 2021 Aug 20;16(8):e0248297.
+
+- Iglesias V, Braswell AE, Rossi MW, **Joseph MB**, McShane C, Cattau M, Koontz MJ, McGlinchy J, Nagy RC, Balch J, Leyk S. Risky development: Increasing exposure to natural hazards in the United States. Earth's future. 2021 Jul;9(7):e2020EF001795.
+
+- Qiang Y, Buttenfield BP, **Joseph MB**. How to measure distance on a digital terrain surface and why it matters in geographical analysis. Geographical Analysis. 2021 Jul;53(3):588-622.
+
+- Fagre AC, Cohen LE, Eskew EA, Farrell M, Glennon E, **Joseph MB**, Frank HK, Ryan SJ, Carlson CJ, Albery GF. Assessing the risk of human‐to‐wildlife pathogen transmission for conservation and public health. Ecology Letters. 2022 Mar 22.
+
+- McGlinchy J, Muller B, Johnson B, **Joseph MB**, Diaz J. Fully Convolutional Neural Network for Impervious Surface Segmentation in Mixed Urban Environment. Photogrammetric Engineering & Remote Sensing. 2021 Feb 1;87(2):117-23.
+
+- **Joseph MB**, Knapp RA. Using visual encounter data to improve capture–recapture abundance estimates. Ecosphere. 2021 Feb;12(2):e03370.
+
+- Spiers AI, Royle JA, Torrens CL, **Joseph MB**. Estimating occupancy dynamics and encounter rates with species misclassification: a semi-supervised individual-level approach. BioRxiv. 2021 Jan 1.
 
 - **Joseph MB**. Neural hierarchical models of ecological populations. Ecology Letters. 2020 Apr;23(4):734-47.
 
@@ -110,11 +158,12 @@ Bayesian statistics, machine learning, and ecology; science-based deep learning,
 
 ## Preprints
 
-- Solvik K, Bartuszevige AM, Bogaerts M, **Joseph MB**. Predicting Playa Inundation Using a Long Short-Term Memory Neural Network. arXiv preprint arXiv:2010.08605. 2020 Oct 16.
+- Wasser L, Palomino J, Herwehe L, Quarderer N, McGlinchy J, Balch J, **Joseph MB**. Student-Directed Learning in the Open Earth & Environmental Data Science Classroom. https://osf.io/preprints/xdj4z/
 
-- Gadeken KR, **Joseph MB**, McGlinchy J, Karnauskas KB, Bell CC. Predicting subsurface sonar observations with satellite-derived ocean surface data in the California Current Ecosystem. bioRxiv. 2020 Jan 1.
+- **Joseph MB**, Pavlacky DC, Bartuszevige AM. Data fusion for abundance estimation: community science augments systematically collected removal-in-time distance sampling data. bioRxiv. 2021 Jan 1.
 
-- **Joseph MB**, Knapp RA. Using encounter data to improve capture-recapture abundance estimates. BioRxiv. 2020 Jan 1.
+- Graves SJ, Marconi S, Stewart D, Harmon I, Weinstein BG, Kanazawa Y, Scholl VM, **Joseph MB**, McClinchy J, Browne L, Sullivan MK. Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. bioRxiv. 2021 Jan 1.
+
 
 ## Other publications
 
