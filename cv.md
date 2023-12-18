@@ -125,8 +125,6 @@ Python, R, bash, Stan, pytorch, fastai, xarray, pandas, geopandas, dask, pytest,
 
 - Scholl VM, Cattau ME, **Joseph MB**, Balch JK. Integrating national ecological observatory network (NEON) airborne remote sensing and in-situ data for optimal tree species classification. Remote Sensing. 2020 Jan;12(9):1414.
 
-- Qiang Y, Buttenfield BP, **Joseph MB**. How to Measure Distance on a Digital Terrain Surface and Why it Matters in Geographical Analysis. Geographical Analysis. 2020 Aug 12.
-
 - McGlinchy J, Johnson B, Muller B, **Joseph MB** and Diaz J, 2019. Application of UNet Fully Convolutional Neural Network to Impervious Surface Segmentation in Urban Environment from High Resolution Satellite Imagery. In IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium (pp. 3915-3918). IEEE.
 
 - Ranjeva SL, Mihaljevic JR, **Joseph MB**, Giuliano AR and Dwyer G, 2019. Untangling the dynamics of persistence and colonization in microbial communities. The ISME journal, pp.1-13.
@@ -159,9 +157,9 @@ Python, R, bash, Stan, pytorch, fastai, xarray, pandas, geopandas, dask, pytest,
 
 - Johnon PTJ, Wood CL, **Joseph MB**, Preston DL, Haas SE, Springer YP. 2016. Habitat heterogeneity drives the host-diversity-begets-parasite-diversity relationship: evidence from experimental and field studies. Ecology Letters 19: 7.
 
-- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PTJ. 2016. Endohelminths in bird hosts from northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology.
+- Hannon ER, Kinsella JM, Calhoun DM, **Joseph MB**, Johnson PT. Endohelminths in bird hosts from Northern California and an analysis of the role of life history traits on parasite richness. The Journal of Parasitology. 2016 Apr 1;102(2):199-207.
 
-- **Joseph MB**, Preston DL, Johnson PTJ. 2015. Integrating occupancy models and structural equation models to understand species occurrence. Ecology.
+- **Joseph MB**, Preston DL, Johnson PT. Integrating occupancy models and structural equation models to understand species occurrence. Ecology. 2016 Mar;97(3):765-75.
 
 - Wilkins MR, Shizuka D, **Joseph MB**, Hubbard JK, Safran RJ. 2015. Multimodal signaling in the North American barn swallow: a phenotype network approach. Proceedings of the Royal Society B 282: 20151574.
 
