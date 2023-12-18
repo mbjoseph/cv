@@ -11,6 +11,14 @@ header-includes:
 
 ## Experience
 
+### Senior data scientist
+
+*Planet Labs (2023-present)*
+
+- Estimated global forest aboveground biomass by integrating spaceborne lidar, optical satellite imagery, synthetic aperture radar, and deep learning models.
+- Maintained and contributed to a variety of internal libraries focused on using deep learning to solve image-to-image regression problems in Earth observation.
+- Led the validation and intercomparison of global forest data products against *in situ* and remotely sensed benchmark data.
+
 ### Data scientist
 
 *Natural Capital Exchange (2021-present)*
@@ -52,7 +60,24 @@ Wildlife, Fish, and Conservation Biology
 
 Python, R, bash, Stan, pytorch, fastai, xarray, pandas, geopandas, dask, pytest, mlflow, git, GitHub, tidyverse, stars, testthat, and JAGS.
 
+## Preprints
+
+- Stephens JJ, **Joseph MB**, Iglesias V, Tuff TA, Mahood AL, Rangwala I, Wolken J, Balch JK. Fires of Unusual Size: Future of Extreme and Emerging Wildfires in a Warming United States (2020-2060). Authorea Preprints. 2023 Dec 10.
+
+- Knapp RA, Wilber MQ, Byrne AQ, **Joseph MB**, Smith TC, Rothstein AP, Grasso RL, Rosenblum EB. Evolutionary rescue and reintroduction of resistant frogs allows recovery in the presence of a lethal fungal disease. bioRxiv. 2023:2023-05.
+
+- Wasser L, Palomino J, Herwehe L, Quarderer N, McGlinchy J, Balch J, **Joseph MB**. Student-Directed Learning in the Open Earth & Environmental Data Science Classroom. https://osf.io/preprints/xdj4z/
+
+- **Joseph MB**, Pavlacky DC, Bartuszevige AM. Data fusion for abundance estimation: community science augments systematically collected removal-in-time distance sampling data. bioRxiv. 2021 Jan 1.
+
+- Graves SJ, Marconi S, Stewart D, Harmon I, Weinstein BG, Kanazawa Y, Scholl VM, **Joseph MB**, McClinchy J, Browne L, Sullivan MK. Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. bioRxiv. 2021 Jan 1.
+
+
 ## Peer-reviewed publications
+
+- Wiedinmyer C, Kimura Y, McDonald-Buller EC, Emmons LK, Buchholz RR, Tang W, Seto K, **Joseph MB**, Barsanti KC, Carlton AG, Yokelson R. The Fire Inventory from NCAR version 2.5: An updated global fire emissions model for climate and chemistry applications. EGUsphere. 2023 Feb 27;2023:1-45.
+
+- Mahood AL, **Joseph MB**, Spiers AI, Koontz MJ, Ilangakoon N, Solvik KK, Quarderer N, McGlinchy J, Scholl VM, St Denis LA, Nagy C. Ten simple rules for working with high resolution remote sensing data. Peer Community Journal. 2023;3.
 
 - Spiers AI, Royle JA, Torrens CL, **Joseph MB**. Estimating species misclassification with occupancy dynamics and encounter rates: A semi‐supervised, individual‐level approach. Methods in Ecology and Evolution. 2022 Apr 22.
 
@@ -155,15 +180,6 @@ Python, R, bash, Stan, pytorch, fastai, xarray, pandas, geopandas, dask, pytest,
 - **Joseph MB**, Gentles M, Pearse IS. 2011. The parasitoid community of Andricus quercuscalifornicus and its association with gall size, phenology, and location. Biodiversity and Conservation 20 (1): 203-216.
 
 - Karban R, Hodson A, Gruner DS, Lewis EE, Karban J, **Joseph MB**, Mata T, Strong DR. 2011. Lack of susceptibility of soil-inhabiting Platyprepia virginialis caterpillars, a native arctiid, to entomopathogenic nematodes in nature. Entomologia Experimentalis et Applicata 140 (1): 28-34.
-
-## Preprints
-
-- Wasser L, Palomino J, Herwehe L, Quarderer N, McGlinchy J, Balch J, **Joseph MB**. Student-Directed Learning in the Open Earth & Environmental Data Science Classroom. https://osf.io/preprints/xdj4z/
-
-- **Joseph MB**, Pavlacky DC, Bartuszevige AM. Data fusion for abundance estimation: community science augments systematically collected removal-in-time distance sampling data. bioRxiv. 2021 Jan 1.
-
-- Graves SJ, Marconi S, Stewart D, Harmon I, Weinstein BG, Kanazawa Y, Scholl VM, **Joseph MB**, McClinchy J, Browne L, Sullivan MK. Data science competition for cross-site delineation and classification of individual trees from airborne remote sensing data. bioRxiv. 2021 Jan 1.
-
 
 ## Other publications
 
